@@ -1,4 +1,4 @@
-name: timeclock_2
+name: timeclock2
 description: The sequel to the Android exclusive time management app, Timeclock
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
